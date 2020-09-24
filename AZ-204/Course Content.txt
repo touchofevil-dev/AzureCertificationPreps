@@ -1,0 +1,17 @@
+Documentation
+	Logic Apps
+	Power Automate
+	Function Apps
+	Webjobs
+
+Powershell
+	Logic Apps
+	Power Automate
+	Function Apps
+	Webjobs
+
+Code
+	Logic Apps
+	Power Automate
+	Function Apps
+	Webjobs

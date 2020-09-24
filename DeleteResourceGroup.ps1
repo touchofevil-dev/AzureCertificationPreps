@@ -1,0 +1,1 @@
+Remove-AzResourceGroup -Name 'AzureTestPrepRG' -Force
